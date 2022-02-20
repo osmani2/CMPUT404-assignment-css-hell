@@ -4,16 +4,16 @@ body {
   background: White;
   margin-right: 10%;
   margin-left: 10%;
-  font-size: medium;
-  font-family: "Luminari,fantasy";
+  font-size: x-large;
+  font-family: "Times New Roman";
   text-align: justify;
   background-image: url("https://osmani2.github.io/CMPUT404-assignment-css-hell/image/paper.jpeg");
 }
 
 html,
 pre {
-  font-size: medium;
-  font-family: "Luminari,fantasy";
+  font-size: x-large;
+  font-family: "Times New Roman";
 }
 
 html,

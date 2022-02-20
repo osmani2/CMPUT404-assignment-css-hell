@@ -24,3 +24,6 @@ Code is licensed under the Apache 2.0 license.
 https://www.w3schools.com/w3css/w3css_templates.asp
 Index:
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_fifty&stacked=h
+
+Centering Issue:
+https://stackoverflow.com/a/51615632/12161528
