@@ -5,43 +5,44 @@ body {
   line-height: 1.5;
 }
 
-.w3-white,
-.w3-hover-white:hover {
+.white,
+.hover-white:hover {
   color: #000;
   background-color: #fff;
 }
-.w3-center {
+.center {
   text-align: center;
 }
 
-.w3-padding-64 {
+.div-buttons {
+  margin: auto;
+  width: fit-content;
+}
+
+.padding-64 {
   padding-top: 64px;
   padding-bottom: 64px;
 }
-.w3-btn,
-.w3-button {
-  border: none;
-  padding: 8px 16px;
-  vertical-align: middle;
-  overflow: hidden;
+.btn,
+.button {
+  border: 1px solid;
+  margin: 1px;
   text-decoration: none;
-  text-align: center;
-  cursor: pointer;
-  white-space: nowrap;
+  border-radius: 25px;
 }
 
 .w3-block {
   display: block;
-  width: 100%;
+  width: 200px;
 }
 
-.w3-teal,
-.w3-hover-teal:hover {
+.teal,
+.hover-teal:hover {
   color: #fff;
   background-color: #009688;
 }
 
-.w3-padding-16 {
+.padding-16 {
   padding-top: 16px;
   padding-bottom: 16px;
 }
