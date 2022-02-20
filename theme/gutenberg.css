@@ -20,46 +20,6 @@ p {
   text-indent: 4%;
 }
 
-p.noindent {
+.noindent {
   text-indent: 0%;
-}
-
-p.poem {
-  text-indent: 0%;
-  margin-left: 10%;
-  font-size: small;
-}
-
-p.letter {
-  font-size: small;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-p.salutation {
-  font-size: small;
-  text-indent: 0%;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-p.closing {
-  font-size: small;
-  text-indent: 0%;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-p.quote {
-  font-size: small;
-  text-indent: 4%;
-  margin-left: 0%;
-  margin-right: 0%;
-}
-
-p.finis {
-  text-align: center;
-  text-indent: 0%;
-  margin-left: 0%;
-  margin-right: 0%;
 }
