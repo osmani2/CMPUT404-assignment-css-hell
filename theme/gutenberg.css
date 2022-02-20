@@ -20,6 +20,10 @@ p {
   text-indent: 4%;
 }
 
+.p2 {
+  margin-top: 2em;
+}
+
 .noindent {
   text-indent: 0%;
 }
@@ -110,4 +114,12 @@ a:visited {
 }
 a:hover {
   color: red;
+}
+
+.letter {
+  text-indent: 0%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
