@@ -5,13 +5,25 @@ body {
   line-height: 1.5;
 }
 
-.white,
-.hover-white:hover {
+.w3-white,
+.w3-hover-white:hover {
   color: #000;
   background-color: #fff;
 }
-.center {
+.w3-center {
   text-align: center;
+}
+
+.w3-padding-64 {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+.w3-btn,
+.w3-button {
+  border: 1px solid;
+  margin: 1px;
+  text-decoration: none;
+  border-radius: 25px;
 }
 
 .div-buttons {
@@ -19,30 +31,18 @@ body {
   width: fit-content;
 }
 
-.padding-64 {
-  padding-top: 64px;
-  padding-bottom: 64px;
-}
-.btn,
-.button {
-  border: 1px solid;
-  margin: 1px;
-  text-decoration: none;
-  border-radius: 25px;
-}
-
 .w3-block {
   display: block;
   width: 200px;
 }
 
-.teal,
-.hover-teal:hover {
+.w3-teal,
+.w3-hover-teal:hover {
   color: #fff;
   background-color: #009688;
 }
 
-.padding-16 {
+.w3-padding-16 {
   padding-top: 16px;
   padding-bottom: 16px;
 }
