@@ -5,7 +5,7 @@ body {
   margin-right: 10%;
   margin-left: 10%;
   font-size: medium;
-  font-family: "Times New Roman", serif;
+  font-family: "Trattatello";
   text-align: justify;
   background-image: url("https://osmani2.github.io/CMPUT404-assignment-css-hell/image/paper.jpeg");
 }
@@ -13,7 +13,7 @@ body {
 html,
 pre {
   font-size: medium;
-  font-family: "Times New Roman", serif;
+  font-family: "Trattatello";
 }
 
 html,
