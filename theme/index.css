@@ -27,7 +27,7 @@ body {
 
 .div-buttons {
   margin: auto;
-  width: fit-content;
+  width: -moz-fit-content;
 }
 
 .w3-block {
